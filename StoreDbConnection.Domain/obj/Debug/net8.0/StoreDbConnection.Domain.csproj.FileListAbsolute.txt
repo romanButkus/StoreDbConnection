@@ -1,0 +1,11 @@
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\bin\Debug\net8.0\StoreDbConnection.Domain.deps.json
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\bin\Debug\net8.0\StoreDbConnection.Domain.dll
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\bin\Debug\net8.0\StoreDbConnection.Domain.pdb
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.AssemblyInfoInputs.cache
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.AssemblyInfo.cs
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.csproj.CoreCompileInputs.cache
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.dll
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\refint\StoreDbConnection.Domain.dll
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.pdb
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\ref\StoreDbConnection.Domain.dll

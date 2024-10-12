@@ -1,0 +1,71 @@
+﻿@using StoreDbConnection.Domain.Models;
+
+@model IEnumerable<Category>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@* <table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Id</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td class="card-header">@i.CategoryName</td>
+                <td class="card-body">@i.CategoryId</td>
+            </tr>
+
+        }
+    </tbody>
+</table> *@
+
+<div class="container">
+    <div class="row">
+        @foreach (var i in Model)
+        {
+            <div class="col-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h4>@i.Name</h4>
+                    </div>
+
+                    <div class="card-body">
+                        <p>
+                            @i.Brand
+                            @i.Model
+                        </p>
+                    </div>
+
+                    <div class="card-footer">
+                        <p>@i.Price</p>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+@* <div id="items-section">
+    @foreach(var i in Model)
+    {
+        <div class="card m-3" style="width:200px">
+            <div class="card-header">@i.CategoryName</div>
+            <div class="card-body">@i.CategoryId</div>
+        </div>
+
+    }
+</div> *@
+
