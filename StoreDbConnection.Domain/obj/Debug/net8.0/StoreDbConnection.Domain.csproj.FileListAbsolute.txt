@@ -9,3 +9,4 @@ D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\ne
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\refint\StoreDbConnection.Domain.dll
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\ref\StoreDbConnection.Domain.dll
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.Domain\obj\Debug\net8.0\StoreDbConnection.Domain.sourcelink.json

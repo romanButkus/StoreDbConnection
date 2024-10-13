@@ -409,3 +409,4 @@ D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection\bin\Debug\net8.0\St
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection\bin\Debug\net8.0\StoreDbConnection.DAL.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection\bin\Debug\net8.0\StoreDbConnection.Domain.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection\obj\Debug\net8.0\StoreDbConnection.MvcApplicationPartsAssemblyInfo.cs
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection\obj\Debug\net8.0\StoreDbConnection.sourcelink.json

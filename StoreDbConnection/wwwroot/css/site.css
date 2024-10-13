@@ -6,6 +6,7 @@
 body {
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(145,99,35,1) 40%, rgba(16,9,35,1) 100%);
+    margin-bottom: 60px;
 }
 
 html {
@@ -28,6 +29,10 @@ html {
     min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
+.mycard{
+    min-height: 150px;
+}
+
+.card{
+    min-height: 150px;
 }

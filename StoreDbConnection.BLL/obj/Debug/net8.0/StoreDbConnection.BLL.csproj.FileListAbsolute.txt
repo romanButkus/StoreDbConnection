@@ -15,3 +15,4 @@ D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.BLL\bin\Debug\net8.
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.BLL\bin\Debug\net8.0\StoreDbConnection.DAL.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.BLL\bin\Debug\net8.0\StoreDbConnection.Domain.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.BLL\obj\Debug\net8.0\StoreDbC.D81A33B0.Up2Date
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.BLL\obj\Debug\net8.0\StoreDbConnection.BLL.sourcelink.json

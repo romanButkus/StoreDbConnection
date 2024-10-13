@@ -13,3 +13,4 @@ D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.DAL\obj\Debug\net8.
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.DAL\obj\Debug\net8.0\refint\StoreDbConnection.DAL.dll
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.DAL\obj\Debug\net8.0\StoreDbConnection.DAL.pdb
 D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.DAL\obj\Debug\net8.0\ref\StoreDbConnection.DAL.dll
+D:\CSharp\Csharp\ASP.NET\StoreDbConnection\StoreDbConnection.DAL\obj\Debug\net8.0\StoreDbConnection.DAL.sourcelink.json

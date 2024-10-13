@@ -12,22 +12,22 @@
 </div>
 
 @* <table class="table table-hover">
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Id</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var i in Model)
-        {
-            <tr>
-                <td class="card-header">@i.CategoryName</td>
-                <td class="card-body">@i.CategoryId</td>
-            </tr>
+<thead>
+<tr>
+<th>Name</th>
+<th>Id</th>
+</tr>
+</thead>
+<tbody>
+@foreach (var i in Model)
+{
+<tr>
+<td class="card-header">@i.CategoryName</td>
+<td class="card-body">@i.CategoryId</td>
+</tr>
 
-        }
-    </tbody>
+}
+</tbody>
 </table> *@
 
 <div class="container">
@@ -35,7 +35,7 @@
         @foreach (var i in Model)
         {
             <div class="col-3">
-                <div class="card">
+                <div class="card mb-3">
                     <div class="card-header">
                         <h4>@i.Name</h4>
                     </div>
@@ -48,8 +48,7 @@
                     </div>
 
                     <div class="card-footer">
-                        <p>@i.Price</p>
-
+                        @i.Price
                     </div>
                 </div>
             </div>
@@ -57,15 +56,25 @@
     </div>
 </div>
 
+<div class="row">
+    <div class="col-12">
+        @for (int i = 1; i <= ViewBag.PageCount; i++)
+        {
+            <a href="/Home/Index/@i" class="btn btn-secondary">
+                @i
+            </a>
+        }
+    </div>
+</div>
+
 
 @* <div id="items-section">
-    @foreach(var i in Model)
-    {
-        <div class="card m-3" style="width:200px">
-            <div class="card-header">@i.CategoryName</div>
-            <div class="card-body">@i.CategoryId</div>
-        </div>
+@foreach(var i in Model)
+{
+<div class="card m-3" style="width:200px">
+<div class="card-header">@i.CategoryName</div>
+<div class="card-body">@i.CategoryId</div>
+</div>
 
-    }
+}
 </div> *@
-

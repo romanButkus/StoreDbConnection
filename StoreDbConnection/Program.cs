@@ -15,7 +15,7 @@ builder.Services.AddScoped<IRepository<Category>, CategoryRepository>();
 builder.Services.AddScoped<CategoryService>();
 
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
- 
+
 var app = builder.Build();
 
 if (!app.Environment.IsDevelopment())
